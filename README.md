@@ -7,7 +7,7 @@
 </div>
 
 ###
-## :globe_with_meridians: My portfolio is: [here](https:\\adrian.somad.es)
+## :globe_with_meridians: My portfolio is: [here](https://adrian.somad.es)
 
 ## :page_facing_up: You can download my CV in PDF <a href="AdrianLozanoMartinez.pdf" download="AdrianLozanoMartinez.pdf" target="_blank">Download CV</a>
 
