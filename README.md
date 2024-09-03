@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/adrilozamar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="lozma.adrian@gmail.com" target="_blank">
+  <a href="mailto:lozma.adrian@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.paypal.com/donate/?hosted_button_id=A23LFL66549S8" target="_blank">
@@ -136,4 +136,3 @@
 </div>
 
 ###
-
