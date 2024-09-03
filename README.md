@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="banner.png"  />
+</div>
+
+###
+
 <p align="left">I am an enthusiastic and motivated individual with a strong desire to integrate into the professional world. I consider myself to be active, versatile, and hardworking, with a solid capacity for adaptation and rapid learning. Throughout my education and experiences, I have demonstrated versatility and the ability to face challenges in various fields, always eager to keep progressing.<br><br>Recently, I completed a vocational training program in Web Application Development, complementing my previous education in Systems Administration. This combination has provided me with a solid foundation in both web development and the management and maintenance of IT systems, allowing me to have a comprehensive view of technological solutions.<br><br>My constant focus on continuous learning ensures that I am always prepared to take on new responsibilities and challenges. If given the opportunity to join your team, I am committed to not letting you down. Should there be any knowledge or skill I do not yet possess, I will dedicate myself to studying, researching, and acquiring it to meet expectations.<br><br>I am confident that my versatility and proactive attitude will be valuable assets to your company. I am eager to keep learning and to contribute my knowledge and skills to your team.</p>
 
 ###
@@ -135,3 +141,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
+###
