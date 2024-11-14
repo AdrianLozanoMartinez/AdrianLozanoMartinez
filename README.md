@@ -94,7 +94,8 @@
   <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
   <img src="asset/Wordpress.png" class="logo" alt="WordPress" title="WordPress" height="40" width="50"> &nbsp;
   <img src="asset/woocommerce.png" class="logo" alt="Woocommerce" title="Woocommerce" height="40" width="50"> &nbsp;
-  <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
+  <img src="asset/putty.svg" class="logo" alt="Putty" title="Putty" height="50" width="60"> &nbsp;
+    <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
     <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
     <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
     <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
@@ -106,19 +107,10 @@
     <img src="asset/pyCharm.svg" class="logo" alt="PyCharm" title="PyCharm" height="50" width="60"> &nbsp;
     <img src="asset/thonny.png" class="logo" alt="Thonny" title="Thonny" height="40" width="50"> &nbsp;
     <img src="asset/sublimeText.png" class="logo" alt="SublimeText" title="SublimeText" height="50" width="60"> &nbsp;
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+    <img src="asset/canva.png" class="logo" alt="Canva" title="Canva" height="50" width="60"> &nbsp;
+    <img src="asset/gimp.png" class="logo" alt="Gimp" title="Gimp" height="50" width="60"> &nbsp;
+    <img src="asset/inkscape.png" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
+    <img src="asset/photoshop.png" class="logo" alt="Photoshop" title="Photoshop" height="50" width="60"> &nbsp;
+    <img src="asset/trello.png" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
 </div>
 
