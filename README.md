@@ -5,9 +5,13 @@
 </div>
 
 
-## :globe_with_meridians: [Portfolio](https://adrian.somad.es)												:page_facing_up: CV en PDF <a href="AdrianLozanoMartinez.pdf" download="AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
+## :globe_with_meridians: [Portfolio](https://adrian.somad.es)
 
-<p align="left">I am an enthusiastic and motivated individual with a strong desire to integrate into the professional world. I consider myself to be active, versatile, and hardworking, with a solid capacity for adaptation and rapid learning. Throughout my education and experiences, I have demonstrated versatility and the ability to face challenges in various fields, always eager to keep progressing.<br><br>Recently, I completed a vocational training program in Web Application Development, complementing my previous education in Systems Administration. This combination has provided me with a solid foundation in both web development and the management and maintenance of IT systems, allowing me to have a comprehensive view of technological solutions.<br><br>My constant focus on continuous learning ensures that I am always prepared to take on new responsibilities and challenges. If given the opportunity to join your team, I am committed to not letting you down. Should there be any knowledge or skill I do not yet possess, I will dedicate myself to studying, researching, and acquiring it to meet expectations.<br><br>I am confident that my versatility and proactive attitude will be valuable assets to your company. I am eager to keep learning and to contribute my knowledge and skills to your team.</p>
+## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
+
+<p align="justify">Soy desarrollador web, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony y Bootstrap.</p>
+<p align="justify">Además, he trabajado en atención al cliente y soporte técnico, lo que ha fortalecido mis habilidades en resolución de problemas, comunicación eficaz y liderazgo, ya que fui responsable de la formación de nuevo personal.</p>
+<p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
 
 ###
 
