@@ -48,8 +48,8 @@
   <img src="asset/bootstrap.svg" class="logo" alt="Bootstrap" title="Bootstrap" height="50" width="60"> &nbsp;
   <img src="asset/tailwind.png" class="logo" alt="Tailwind" title="Tailwind" height="40" width="40"> &nbsp;
   <img src="asset/bootswatch.svg" class="logo" alt="Bootswatch" title="Bootswatch" height="40" width="40"> &nbsp;
-  <img src="asset/javascript.svg" class="logo" alt="JavaScript" title="JavaScript" height="60" width="60"> &nbsp;
-  <img src="asset/typescript.svg" class="logo" alt="Typescript" title="Typescript" height="60" width="60">&nbsp;
+  <img src="asset/javascript.svg" class="logo" alt="JavaScript" title="JavaScript" height="50" width="50"> &nbsp;
+  <img src="asset/typescript.svg" class="logo" alt="Typescript" title="Typescript" height="50" width="50">&nbsp;
     <img src="asset/ajax.png" class="logo" alt="Ajax" title="Ajax" height="45" width="45">&nbsp;
     <img src="asset/jquery.svg" class="logo" alt="Jquery" title="Jquery" height="45" width="45">&nbsp;
     <img src="asset/sweetalert2.png" class="logo" alt="Sweetalert" title="Sweetalert" height="45" width="45">&nbsp;
@@ -81,10 +81,14 @@
 
 <div align="left">
   <img src="asset/github.png" class="logo" alt="Github" title="Github" height="40" width="40"> &nbsp;
+  <img src="asset/git.svg" class="logo" alt="Git" title="Git" height="40" width="40"> &nbsp;
   <img src="asset/api.png" class="logo" alt="Rest API" title="Rest API" height="45" width="45"> &nbsp;
   <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="45" width="55"> &nbsp;
+  <img src="asset/filezilla.svg" class="logo" alt="Filezilla" title="Filezilla" height="45" width="55"> &nbsp;
   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
+  <img src="asset/npm.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
+  <img src="asset/composer.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
   <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
   <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
   <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
@@ -105,15 +109,7 @@
 </div>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
