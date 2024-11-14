@@ -94,6 +94,14 @@
     <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
     <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
     <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
+    <img src="asset/dia.png" class="logo" alt="Dia" title="Dia" height="40" width="50"> &nbsp;
+    <img src="asset/visualStudioCode.svg" class="logo" alt="Visual Studio Code" title="Visual Studio Code" height="40" width="50"> &nbsp;
+    <img src="asset/visualStudioComunity.png" class="logo" alt="Visual Studio Comunity" title="Visual Studio Comunity" height="50" width="60"> &nbsp;
+    <img src="asset/intelliJ.png" class="logo" alt="IntelliJ" title="IntelliJ" height="40" width="50"> &nbsp;
+    <img src="asset/netbeans.svg" class="logo" alt="Netbeans" title="Netbeans" height="40" width="50"> &nbsp;
+    <img src="asset/pyCharm.svg" class="logo" alt="PyCharm" title="PyCharm" height="50" width="60"> &nbsp;
+    <img src="asset/thonny.png" class="logo" alt="Thonny" title="Thonny" height="40" width="50"> &nbsp;
+    <img src="asset/sublimeText.png" class="logo" alt="SublimeText" title="SublimeText" height="50" width="60"> &nbsp;
 </div>
 
 <div align="left">
@@ -107,18 +115,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
@@ -129,3 +125,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
+
