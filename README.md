@@ -1,8 +1,9 @@
 <h1 align="center">Bienvenido a mi Github</h1>
 
 <div align="center">
-  <img src="banner.png"  />
+  <img src="asset/banner.png"  />
 </div>
+
 
 
 <p align="justify">Soy <b>desarrollador web</b>, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como <b>C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony y Bootstrap.</b></p>
@@ -11,7 +12,7 @@
 
 ## :globe_with_meridians: [Portfolio](https://adrian.somad.es)
 
-## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="asset/document/AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
+## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="asset/AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrilozamar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -24,26 +25,8 @@
 
 <h2 align="left">Back-end</h2>
 
-<div align="left">
-    <img src="asset/net.png" class="logo" alt=".Net" title=".Net"> 
-    <span>.Net</span>
-    <img src="asset/csharp.svg" class="logo" alt="C#" title="C#"> 
-    <span>C#</span>
-    <img src="asset/linq.png" class="logo" alt="Linq" title="Linq"> 
-    <span>Linq</span>
-    <img src="asset/blazor.svg" class="logo" alt="Blazor" title="Blazor"> 
-    <span>Blazor</span>
-    <img src="asset/php.svg" class="logo" alt="PHP" title="PHP"> 
-    <span>PHP</span>
-    <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)"> 
-    <span>Doctrine (ORM)</span>
-    <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony"> 
-    <span>Symfony</span>
-    <img src="asset/java.png" class="logo" alt="Java" title="Java"> 
-    <span>Java</span>
-    <img src="asset/python.svg" class="logo" alt="Python" title="Python"> 
-	<span>Python</span>
-</div>
+<pre><img src="asset/net.png" class="logo" alt=".Net" title=".Net" height="40" width="40">   <img src="asset/csharp.svg" class="logo" alt="C#" title="C#" height="40" width="40">  <img src="asset/linq.png" class="logo" alt="Linq" title="Linq" height="40" width="40">  <img src="asset/blazor.svg" class="logo" alt="Blazor" title="Blazor" height="50" width="60">  <img src="asset/php.svg" class="logo" alt="PHP" title="PHP" height="30" width="60">  <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)" height="40" width="40">  <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony" height="40" width="40">  <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40">  <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40"> 
+</pre>
 
 ###
 
@@ -130,5 +113,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-
 ###
