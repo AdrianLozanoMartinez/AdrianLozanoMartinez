@@ -107,10 +107,10 @@
     <img src="asset/pyCharm.svg" class="logo" alt="PyCharm" title="PyCharm" height="50" width="60"> &nbsp;
     <img src="asset/thonny.png" class="logo" alt="Thonny" title="Thonny" height="40" width="50"> &nbsp;
     <img src="asset/sublimeText.png" class="logo" alt="SublimeText" title="SublimeText" height="50" width="60"> &nbsp;
-    <img src="asset/canva.png" class="logo" alt="Canva" title="Canva" height="50" width="60"> &nbsp;
-    <img src="asset/gimp.png" class="logo" alt="Gimp" title="Gimp" height="50" width="60"> &nbsp;
-    <img src="asset/inkscape.png" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
-    <img src="asset/photoshop.png" class="logo" alt="Photoshop" title="Photoshop" height="50" width="60"> &nbsp;
-    <img src="asset/trello.png" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
+    <img src="asset/canva.svg" class="logo" alt="Canva" title="Canva" height="50" width="60"> &nbsp;
+    <img src="asset/gimp.svg" class="logo" alt="Gimp" title="Gimp" height="50" width="60"> &nbsp;
+    <img src="asset/inkscape.svg" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
+    <img src="asset/photoshop.svg" class="logo" alt="Photoshop" title="Photoshop" height="50" width="60"> &nbsp;
+    <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
 </div>
 
