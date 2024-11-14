@@ -5,17 +5,15 @@
 </div>
 
 
+<p align="justify">Soy <b>desarrollador web</b>, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como <b>C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony y Bootstrap.</b></p>
+<p align="justify">Además, he trabajado en atención al cliente y soporte técnico, lo que ha fortalecido mis habilidades en resolución de problemas, comunicación eficaz y liderazgo, ya que fui responsable de la formación de nuevo personal.</p>
+<p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
+
 ## :globe_with_meridians: [Portfolio](https://adrian.somad.es)
 
 ## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
 
-<p align="justify">Soy desarrollador web, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony y Bootstrap.</p>
-<p align="justify">Además, he trabajado en atención al cliente y soporte técnico, lo que ha fortalecido mis habilidades en resolución de problemas, comunicación eficaz y liderazgo, ya que fui responsable de la formación de nuevo personal.</p>
-<p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/adrilozamar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
