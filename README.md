@@ -10,18 +10,19 @@
 <p align="justify">Además, he trabajado en atención al cliente y soporte técnico, lo que ha fortalecido mis habilidades en resolución de problemas, comunicación eficaz y liderazgo, ya que fui responsable de la formación de nuevo personal.</p>
 <p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
 
-## :globe_with_meridians: [Portfolio](https://adrian.somad.es)
-
-## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="asset/AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/adrilozamar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        <a href="AdrianLozanoMartinez.pdf" download="asset/AdrianLozanoMartinez.pdf" target="_blank" target="_blank"> <img src="asset/cv.svg" width="52" height="40" alt="Descargar CV" title="Descargar CV" />
   </a>
-  <a href="mailto:lozma.adrian@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <a href="https://adrian.somad.es" target="_blank"><img src="asset/portfolio.svg" width="52" height="40" alt="Portfolio" title="Portfolio" />
   </a>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=A23LFL66549S8" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  <a href="https://www.linkedin.com/in/adrilozamar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="Linkedin" />
+  </a>
+  <a href="mailto:lozma.adrian@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email" />
+  </a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=A23LFL66549S8" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo" title="Paypal" />
   </a>
 </div>
+
 
 <h2 align="left">Back-end</h2>
 
@@ -36,14 +37,11 @@
   <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40"> &nbsp;
   <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40">
 </div>
-
-
-###
-
 <h2 align="left">Front-end</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="asset/html.svg" height="40" alt="HTML"  />
+  <img src="asset/canvas.png" height="35" alt="Canvas"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
   <img width="12" />
@@ -63,8 +61,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
 </div>
-
-###
 
 <h2 align="left">Others</h2>
 
@@ -124,3 +120,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 ###
+
