@@ -11,28 +11,43 @@
 
 ## :globe_with_meridians: [Portfolio](https://adrian.somad.es)
 
-## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
+## :page_facing_up: <a href="AdrianLozanoMartinez.pdf" download="asset/document/AdrianLozanoMartinez.pdf" target="_blank">Descargar CV</a>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adrilozamar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/adrilozamar" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:lozma.adrian@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:lozma.adrian@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=A23LFL66549S8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  <a href="https://www.paypal.com/donate/?hosted_button_id=A23LFL66549S8" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="https://ko-fi.com/adrianlozanomartinez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  </a>
+</div>
+
+<h2 align="left">Back-end</h2>
+
+<div align="left">
+    <img src="asset/net.png" class="logo" alt=".Net" title=".Net"> 
+    <span>.Net</span>
+    <img src="asset/csharp.svg" class="logo" alt="C#" title="C#"> 
+    <span>C#</span>
+    <img src="asset/linq.png" class="logo" alt="Linq" title="Linq"> 
+    <span>Linq</span>
+    <img src="asset/blazor.svg" class="logo" alt="Blazor" title="Blazor"> 
+    <span>Blazor</span>
+    <img src="asset/php.svg" class="logo" alt="PHP" title="PHP"> 
+    <span>PHP</span>
+    <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)"> 
+    <span>Doctrine (ORM)</span>
+    <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony"> 
+    <span>Symfony</span>
+    <img src="asset/java.png" class="logo" alt="Java" title="Java"> 
+    <span>Java</span>
+    <img src="asset/python.svg" class="logo" alt="Python" title="Python"> 
+	<span>Python</span>
 </div>
 
 ###
 
 <h2 align="left">Front-end</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -54,28 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
-</div>
-
-###
-
-<h2 align="left">Back-end</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
