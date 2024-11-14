@@ -37,34 +37,55 @@
   <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40"> &nbsp;
   <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40">
 </div>
+
 <h2 align="left">Front-end</h2>
 
 <div align="left">
-  <img src="asset/html.svg" height="40" alt="HTML"  />
-  <img src="asset/canvas.png" height="35" alt="Canvas"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="40" alt="ionic logo"  />
+  <img src="asset/html.svg" class="logo" alt="Html" title="Html" height="50" width="60"> &nbsp;
+  <img src="asset/canvas.png" class="logo" alt="Canvas" title="Canvas" height="40" width="40"> &nbsp;
+  <img src="asset/svg.svg" class="logo" alt="Svg" title="Svg" height="40" width="40"> &nbsp;
+  <img src="asset/css.svg" class="logo" alt="Css" title="Css" height="50" width="60"> &nbsp;
+  <img src="asset/bootstrap.svg" class="logo" alt="Bootstrap" title="Bootstrap" height="50" width="60"> &nbsp;
+  <img src="asset/tailwind.png" class="logo" alt="Tailwind" title="Tailwind" height="40" width="40"> &nbsp;
+  <img src="asset/bootswatch.svg" class="logo" alt="Bootswatch" title="Bootswatch" height="40" width="40"> &nbsp;
+  <img src="asset/javascript.svg" class="logo" alt="JavaScript" title="JavaScript" height="60" width="60"> &nbsp;
+  <img src="asset/typescript.svg" class="logo" alt="Typescript" title="Typescript" height="60" width="60">&nbsp;
+    <img src="asset/ajax.png" class="logo" alt="Ajax" title="Ajax" height="45" width="45">&nbsp;
+    <img src="asset/jquery.svg" class="logo" alt="Jquery" title="Jquery" height="45" width="45">&nbsp;
+    <img src="asset/sweetalert2.png" class="logo" alt="Sweetalert" title="Sweetalert" height="45" width="45">&nbsp;
+    <img src="asset/angular.svg" class="logo" alt="Angular" title="Angular" height="45" width="45">&nbsp;
+    <img src="asset/ionic.svg" class="logo" alt="Ionic" title="Ionic" height="45" width="45">
 </div>
 
-<h2 align="left">Others</h2>
+<h2 align="left">Bases de datos</h2>
 
-###
+<div align="left">
+  <img src="asset/sql.png" class="logo" alt="SQL" title="SQL" height="50" width="50"> &nbsp;
+  <img src="asset/mysql.svg" class="logo" alt="MySQL" title="MySQL" height="40" width="40"> &nbsp;
+  <img src="asset/sqlite.svg" class="logo" alt="SQLite" title="SQLite" height="40" width="40"> &nbsp;
+  <img src="asset/cloudFirestore.svg" class="logo" alt="Cloud Firestore" title="Cloud Firestore" height="50" width="60"> &nbsp;
+  <img src="asset/firebase.png" class="logo" alt="Realtime Database" title="Realtime Database" height="30" width="60"> &nbsp;
+</div>
+
+<h2 align="left">Servidores</h2>
+
+<div align="left">
+  <img src="asset/aws.png" class="logo" alt="AWS" title="AWS" height="40" width="40"> &nbsp;
+  <img src="asset/firebase.png" class="logo" alt="Firebase" title="Firebase" height="40" width="40"> &nbsp;
+  <img src="asset/xampp.svg" class="logo" alt="Xampp" title="Xampp" height="40" width="40"> &nbsp;
+  <img src="asset/wamp.png" class="logo" alt="Wamp" title="Wamp" height="40" width="50"> &nbsp;
+  <img src="asset/apache.svg" class="logo" alt="Apache" title="Apache" height="30" width="60"> &nbsp;
+</div>
+
+<h2 align="left">Herramientas</h2>
+
+<div align="left">
+  <img src="asset/github.png" class="logo" alt="Github" title="Github" height="40" width="40"> &nbsp;
+  <img src="asset/api.png" class="logo" alt="Rest API" title="Rest API" height="45" width="45"> &nbsp;
+  <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="55" width="55"> &nbsp;
+  <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
+  <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
+</div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -119,5 +140,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-###
-
