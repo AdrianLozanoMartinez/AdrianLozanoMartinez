@@ -82,7 +82,7 @@
 <div align="left">
   <img src="asset/github.png" class="logo" alt="Github" title="Github" height="40" width="40"> &nbsp;
   <img src="asset/api.png" class="logo" alt="Rest API" title="Rest API" height="45" width="45"> &nbsp;
-  <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="55" width="55"> &nbsp;
+  <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="45" width="55"> &nbsp;
   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
   <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
@@ -92,6 +92,8 @@
   <img src="asset/woocommerce.png" class="logo" alt="Woocommerce" title="Woocommerce" height="40" width="50"> &nbsp;
   <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
     <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
+    <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
+    <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
 </div>
 
 <div align="left">
