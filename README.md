@@ -109,8 +109,8 @@
     <img src="asset/sublimeText.png" class="logo" alt="SublimeText" title="SublimeText" height="50" width="60"> &nbsp;
     <img src="asset/canva.svg" class="logo" alt="Canva" title="Canva" height="50" width="60"> &nbsp;
     <img src="asset/gimp.svg" class="logo" alt="Gimp" title="Gimp" height="50" width="60"> &nbsp;
-    <img src="asset/inkscape.svg" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
     <img src="asset/photoshop.svg" class="logo" alt="Photoshop" title="Photoshop" height="50" width="60"> &nbsp;
+    <img src="asset/inkscape.svg" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
     <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
 </div>
 
