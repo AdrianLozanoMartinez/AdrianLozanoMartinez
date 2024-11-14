@@ -88,9 +88,10 @@
   <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
   <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
   <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
-  <img src="asset/wordpress.png" class="logo" alt="WordPress" title="WordPress" height="40" width="50"> &nbsp;
+  <img src="asset/Wordpress.png" class="logo" alt="WordPress" title="WordPress" height="40" width="50"> &nbsp;
   <img src="asset/woocommerce.png" class="logo" alt="Woocommerce" title="Woocommerce" height="40" width="50"> &nbsp;
   <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
+    <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
 </div>
 
 <div align="left">
