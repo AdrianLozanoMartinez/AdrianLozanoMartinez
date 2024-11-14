@@ -62,7 +62,7 @@
 <div align="left">
   <img src="asset/sql.png" class="logo" alt="SQL" title="SQL" height="50" width="50"> &nbsp;
   <img src="asset/mysql.svg" class="logo" alt="MySQL" title="MySQL" height="40" width="40"> &nbsp;
-  <img src="asset/sqlite.svg" class="logo" alt="SQLite" title="SQLite" height="40" width="40"> &nbsp;
+  <img src="asset/SQLite.svg" class="logo" alt="SQLite" title="SQLite" height="40" width="40"> &nbsp;
   <img src="asset/cloudFirestore.svg" class="logo" alt="Cloud Firestore" title="Cloud Firestore" height="50" width="60"> &nbsp;
   <img src="asset/firebase.png" class="logo" alt="Realtime Database" title="Realtime Database" height="30" width="60"> &nbsp;
 </div>
@@ -85,27 +85,20 @@
   <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="55" width="55"> &nbsp;
   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
+  <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
+  <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
+  <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
+  <img src="asset/wordpress.png" class="logo" alt="WordPress" title="WordPress" height="40" width="50"> &nbsp;
+  <img src="asset/woocommerce.png" class="logo" alt="Woocommerce" title="Woocommerce" height="40" width="50"> &nbsp;
+  <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
