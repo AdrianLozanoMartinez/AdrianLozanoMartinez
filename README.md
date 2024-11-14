@@ -25,8 +25,8 @@
 
 <h2 align="left">Back-end</h2>
 
-<pre><img src="asset/net.png" class="logo" alt=".Net" title=".Net" height="40" width="40">   <img src="asset/csharp.svg" class="logo" alt="C#" title="C#" height="40" width="40">  <img src="asset/linq.png" class="logo" alt="Linq" title="Linq" height="40" width="40">  <img src="asset/blazor.svg" class="logo" alt="Blazor" title="Blazor" height="50" width="60">  <img src="asset/php.svg" class="logo" alt="PHP" title="PHP" height="30" width="60">  <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)" height="40" width="40">  <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony" height="40" width="40">  <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40">  <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40"> 
-</pre>
+<div align="left"><img src="asset/net.png" class="logo" alt=".Net" title=".Net" height="40" width="40">   <img src="asset/csharp.svg" class="logo" alt="C#" title="C#" height="40" width="40">  <img src="asset/linq.png" class="logo" alt="Linq" title="Linq" height="40" width="40">  <img src="asset/blazor.svg" class="logo" alt="Blazor" title="Blazor" height="50" width="60">  <img src="asset/php.svg" class="logo" alt="PHP" title="PHP" height="30" width="60">  <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)" height="40" width="40">  <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony" height="40" width="40">  <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40">  <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40"> 
+</div>
 
 ###
 
