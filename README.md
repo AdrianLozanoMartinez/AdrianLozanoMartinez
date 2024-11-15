@@ -88,7 +88,7 @@
   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
   <img src="asset/npm.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
-  <img src="asset/composer.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
+  <img src="asset/composer.svg" class="logo" alt="Composer" title="Composer" height="40" width="50"> &nbsp;
   <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
   <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
   <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
