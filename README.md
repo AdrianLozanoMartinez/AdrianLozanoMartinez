@@ -66,7 +66,7 @@
   <img src="asset/cloudFirestore.svg" class="logo" alt="Cloud Firestore" title="Cloud Firestore" height="50" width="60"> &nbsp;
   <img src="asset/firebase.png" class="logo" alt="Realtime Database" title="Realtime Database" height="30" width="60"> &nbsp;
 </div>
-<h2 align="left">Servidores y herramientas</h2>
+<h2 align="left">Servidores y Herramientas</h2>
 
 <div align="left">
   <img src="asset/aws.png" class="logo" alt="AWS" title="AWS" height="40" width="40"> &nbsp;
@@ -81,24 +81,28 @@
   <img src="asset/filezilla.svg" class="logo" alt="Filezilla" title="Filezilla" height="45" width="55"> &nbsp;
 </div>
 
-<h2 align="left">Herramientas</h2>
+<h2 align="left">Procesamiento de Datos</h2>
+<div align="left">
+   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
+   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
+   <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
+   <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
+</div>
+
+<h2 align="left">Herramientas de Desarrollo Web</h2>
 
 <div align="left">
-  <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
-  <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
   <img src="asset/npm.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
   <img src="asset/composer.svg" class="logo" alt="Composer" title="Composer" height="40" width="50"> &nbsp;
   <img src="asset/markdown.svg" class="logo" alt="Markdown" title="Markdown" height="50" width="60"> &nbsp;
-  <img src="asset/xpath.png" class="logo" alt="Xpath" title="Xpath" height="40" width="60"> &nbsp;
-  <img src="asset/cssSelector.png" class="logo" alt="Css Selector" title="Css Selector" height="40" width="50"> &nbsp;
   <img src="asset/Wordpress.png" class="logo" alt="WordPress" title="WordPress" height="40" width="50"> &nbsp;
   <img src="asset/woocommerce.png" class="logo" alt="Woocommerce" title="Woocommerce" height="40" width="50"> &nbsp;
-  <img src="asset/putty.svg" class="logo" alt="Putty" title="Putty" height="50" width="60"> &nbsp;
-    <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
-    <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
-    <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
-    <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
-    <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
+</div>
+
+<h2 align="left">Herramientas de Gestión de Proyectos y Productividad</h2>
+<div align="left">
+   <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
+   <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
 </div>
 
 <h2 align="left">Editores de código y diseño</h2>
