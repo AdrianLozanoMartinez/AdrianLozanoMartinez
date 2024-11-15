@@ -66,8 +66,7 @@
   <img src="asset/cloudFirestore.svg" class="logo" alt="Cloud Firestore" title="Cloud Firestore" height="50" width="60"> &nbsp;
   <img src="asset/firebase.png" class="logo" alt="Realtime Database" title="Realtime Database" height="30" width="60"> &nbsp;
 </div>
-
-<h2 align="left">Servidores</h2>
+<h2 align="left">Servidores y herramientas</h2>
 
 <div align="left">
   <img src="asset/aws.png" class="logo" alt="AWS" title="AWS" height="40" width="40"> &nbsp;
@@ -75,16 +74,16 @@
   <img src="asset/xampp.svg" class="logo" alt="Xampp" title="Xampp" height="40" width="40"> &nbsp;
   <img src="asset/wamp.png" class="logo" alt="Wamp" title="Wamp" height="40" width="50"> &nbsp;
   <img src="asset/apache.svg" class="logo" alt="Apache" title="Apache" height="30" width="60"> &nbsp;
-</div>
-
-<h2 align="left">Herramientas</h2>
-
-<div align="left">
   <img src="asset/github.png" class="logo" alt="Github" title="Github" height="40" width="40"> &nbsp;
   <img src="asset/git.svg" class="logo" alt="Git" title="Git" height="40" width="40"> &nbsp;
   <img src="asset/api.png" class="logo" alt="Rest API" title="Rest API" height="45" width="45"> &nbsp;
   <img src="asset/postman.svg" class="logo" alt="Postman" title="Postman" height="45" width="55"> &nbsp;
   <img src="asset/filezilla.svg" class="logo" alt="Filezilla" title="Filezilla" height="45" width="55"> &nbsp;
+</div>
+
+<h2 align="left">Herramientas</h2>
+
+<div align="left">
   <img src="asset/xml.png" class="logo" alt="Xml" title="Xml" height="40" width="50"> &nbsp;
   <img src="asset/json.png" class="logo" alt="Json" title="Json" height="40" width="50"> &nbsp;
   <img src="asset/npm.svg" class="logo" alt="Npm" title="Npm" height="40" width="50"> &nbsp;
@@ -99,7 +98,12 @@
     <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
     <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
     <img src="asset/office.svg" class="logo" alt="Office" title="Office" height="50" width="60"> &nbsp;
-    <img src="asset/dia.png" class="logo" alt="Dia" title="Dia" height="40" width="50"> &nbsp;
+    <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
+</div>
+
+<h2 align="left">Editores de código y diseño</h2>
+
+<div align="left">
     <img src="asset/visualStudioCode.svg" class="logo" alt="Visual Studio Code" title="Visual Studio Code" height="40" width="50"> &nbsp;
     <img src="asset/visualStudioComunity.png" class="logo" alt="Visual Studio Comunity" title="Visual Studio Comunity" height="50" width="60"> &nbsp;
     <img src="asset/intelliJ.png" class="logo" alt="IntelliJ" title="IntelliJ" height="40" width="50"> &nbsp;
@@ -107,10 +111,18 @@
     <img src="asset/pyCharm.svg" class="logo" alt="PyCharm" title="PyCharm" height="50" width="60"> &nbsp;
     <img src="asset/thonny.png" class="logo" alt="Thonny" title="Thonny" height="40" width="50"> &nbsp;
     <img src="asset/sublimeText.png" class="logo" alt="SublimeText" title="SublimeText" height="50" width="60"> &nbsp;
+    <img src="asset/dia.png" class="logo" alt="Dia" title="Dia" height="40" width="50"> &nbsp;
     <img src="asset/canva.svg" class="logo" alt="Canva" title="Canva" height="50" width="60"> &nbsp;
     <img src="asset/gimp.svg" class="logo" alt="Gimp" title="Gimp" height="50" width="60"> &nbsp;
     <img src="asset/photoshop.svg" class="logo" alt="Photoshop" title="Photoshop" height="50" width="60"> &nbsp;
     <img src="asset/inkscape.svg" class="logo" alt="Inkscape" title="Inkscape" height="50" width="60"> &nbsp;
-    <img src="asset/trello.svg" class="logo" alt="Trello" title="Trello" height="50" width="60"> &nbsp;
 </div>
 
+<h2 align="left">Sistemas operativos y herramientas</h2>
+
+<div align="left">
+  	<img src="asset/putty.svg" class="logo" alt="Putty" title="Putty" height="50" width="60"> &nbsp;
+    <img src="asset/virtualbox.svg" class="logo" alt="Virtual Box" title="Virtual Box" height="50" width="60"> &nbsp;
+    <img src="asset/linux.svg" class="logo" alt="Linux" title="Linux" height="50" width="60"> &nbsp;
+    <img src="asset/windows.svg" class="logo" alt="Windows" title="Windows" height="50" width="60"> &nbsp;
+</div>
