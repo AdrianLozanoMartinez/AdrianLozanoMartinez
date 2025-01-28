@@ -6,7 +6,7 @@
 
 
 
-<p align="justify">Soy <b>desarrollador web</b>, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como <b>C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony y Bootstrap.</b></p>
+<p align="justify">Soy <b>desarrollador web</b>, con experiencia en la creación, desarrollo y mantenimiento de aplicaciones utilizando tecnologías como <b>C#, PHP, Java, JavaScript, CSS, HTML, SQL, y frameworks como Angular, Blazor, Symfony, SpringBoot y Bootstrap.</b></p>
 <p align="justify">Además, he trabajado en atención al cliente y soporte técnico, lo que ha fortalecido mis habilidades en resolución de problemas, comunicación eficaz y liderazgo, ya que fui responsable de la formación de nuevo personal.</p>
 <p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
 
@@ -35,6 +35,7 @@
   <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)" height="40" width="40"> &nbsp;
   <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony" height="40" width="40"> &nbsp;
   <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40"> &nbsp;
+  <img src="asset/SpringBoot.png" class="logo" alt="Spring Boot" title="Spring Boot" height="40" width="40"> &nbsp;
   <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40">
 </div>
 
