@@ -11,7 +11,7 @@
 <p align="justify">Mis competencias incluyen autogestión, adaptabilidad, manejo del estrés y trabajo en equipo, además de un fuerte pensamiento crítico y lógico. Busco oportunidades para seguir desarrollándome como desarrollador web y aportar con mi proactividad, ética profesional y enfoque en la atención al detalle.</p>
 
 <div align="center">
-        <a href="AdrianLozanoMartinez.pdf" download="asset/AdrianLozanoMartinez.pdf" target="_blank" target="_blank"> <img src="asset/cv.svg" width="52" height="40" alt="Descargar CV" title="Descargar CV" />
+        <a href="asset/AdrianLozanoMartinez.pdf" download="asset/AdrianLozanoMartinez.pdf" target="_blank" target="_blank"> <img src="asset/cv.svg" width="52" height="40" alt="Descargar CV" title="Descargar CV" />
   </a>
     <a href="https://adrian.somad.es" target="_blank"><img src="asset/portfolio.svg" width="52" height="40" alt="Portfolio" title="Portfolio" />
   </a>
