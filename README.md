@@ -35,7 +35,7 @@
   <img src="asset/doctrine.svg" class="logo" alt="Doctrine (ORM)" title="Doctrine (ORM)" height="40" width="40"> &nbsp;
   <img src="asset/symfony.png" class="logo" alt="Symfony" title="Symfony" height="40" width="40"> &nbsp;
   <img src="asset/java.png" class="logo" alt="Java" title="Java" height="40" width="40"> &nbsp;
-  <img src="asset/SpringBoot.png" class="logo" alt="Spring Boot" title="Spring Boot" height="40" width="40"> &nbsp;
+  <img src="asset/SpringBoot.png" class="logo" alt="Spring/Spring Boot" title="Spring/Spring Boot" height="40" width="40"> &nbsp;
   <img src="asset/python.svg" class="logo" alt="Python" title="Python" height="40" width="40">
 </div>
 
